@@ -1,3 +1,13 @@
 title: blog.hoyd.no
-theme: jekyll-theme-minima
-theme: minima
+remote_theme: jekyll/minima
+
+show_excerpts: true
+date_format: "%d. %b, %Y"
+
+nav_pages:
+    - about.md
+
+social_links:
+    - title: Mastodon
+    - icon: mastodon
+    - url: "https://mastodon.scot/@hoyd
