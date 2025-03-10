@@ -13,7 +13,7 @@ show_excerpts: true
 date_format: "%d. %b, %Y"
 
 # Build settings
-theme: minima
+theme: jekyll-thene-minima
 minima:
     skin: dark
 
