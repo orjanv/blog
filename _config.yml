@@ -6,14 +6,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.hoyd.no" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  orjanv
 
-plugins:
-    - jekyll-feed
-
 show_excerpts: true
 date_format: "%d. %b, %Y"
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 minima:
     skin: dark
 
@@ -25,4 +22,6 @@ minima:
           icon: fa-mastodon
           url: "https://mastodon.scot/@hoyd"
 
+plugins:
+    - jekyll-feed
 
