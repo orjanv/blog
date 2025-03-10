@@ -3,6 +3,8 @@ layout: post
 title: "My first post"
 date: 2025-03-10 20:06:00 +0200
 categories: python
+author:
+- Ørjan Vøllestad
 ---
 
 This is content.
@@ -18,3 +20,12 @@ def my_function():
 ```
 
 this is more content.
+
+### Tables
+
+Title 1               | Title 2               | Title 3               | Title 4
+--------------------- | --------------------- | --------------------- | ---------------------
+lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
