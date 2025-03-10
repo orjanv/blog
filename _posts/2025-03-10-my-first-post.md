@@ -1,7 +1,9 @@
+---
 layout: post
 title: "My first post"
 date: 2025-03-10 20:06:00 +0200
 categories: python
+---
 
 This is content.
 
