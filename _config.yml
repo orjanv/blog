@@ -9,7 +9,8 @@ github_username:  orjanv
 # Build settings
 theme: minima
 minima:
-    skin: classic
+    skin: dark
+    #skin: classic
 plugins:
     - jekyll-feed
 
